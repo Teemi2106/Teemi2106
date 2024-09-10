@@ -1,5 +1,5 @@
 # 💫 About Me:
-💻 Frontend Developer & Data Scientist<br> 🔭 I am currently working on  Machine Learning Algorithms<br>🤝 I am looking to help with your development projects<br>🌱 I am currently learning Machine Learning Processes<br>⚡ Fun Fact : "Did you know? The first computer 'bug' was an actual moth stuck in a computer in 1947.
+💻 Frontend Developer & Data Scientist<br> 🔭 I am currently working on  Machine Learning Algorithms<br>🤝 I am looking to help with your development projects<br>🌱 I am currently learning Machine Learning Processes<br>⚡ Fun Fact : "Did you know? The first computer 'bug' was an actual moth stuck in a computer in 1947 😂.
 
 
 ## 🌐 Socials:
